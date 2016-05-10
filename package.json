@@ -1,0 +1,14 @@
+{
+	"name": "dotevo-cv",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"prekonstrui": "bower install",
+		"konstrui": "gulp konstrui"
+	},
+	"devDependencies": {
+		"gulp": "*",
+		"gulp-file-include": "*",
+		"bower": "*"
+	}
+}
